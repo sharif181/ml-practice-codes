@@ -1,0 +1,16 @@
+.idea
+__pycache__
+venv
+outlier.py
+ski_alpin.txt
+ski_alpin_.txt
+ski_alpin__.txt
+ski_alpin_demo.txt
+test_packages.py
+try_lda.py
+all_text_files/
+athlete_csv_file/
+athlete_list_txt_file/
+classification_result/
+saved_models/
+test/
